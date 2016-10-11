@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+}
+
+.gray {
+  padding: 10px;
+  background-color: gray;
+}
+
+.white {
+
+}
+
+main {
+  padding: 20px;
+}
+
+.blue {
+  padding: 10px;
+  background-color: blue;
+}
+
+.cyan {
+  padding: 10px;
+  background-color: cyan;
+}
+
+.green {
+  padding: 10px;
+  background-color: green;
+}
+
+.yellow {
+  padding: 10px;
+  background-color: yellow;
+}
