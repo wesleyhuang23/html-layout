@@ -7,30 +7,40 @@ body {
   background-color: gray;
 }
 
-.white {
+.box {
+  background-color: blue;
+  width: 70px;
+  height: 70px;
+}
 
+.white {
+  margin: auto;
+  padding: 50px;
 }
 
 main {
-  padding: 20px;
+  border: 20px;
+  font-family: helvetica;
+  font-size: 20px;
 }
 
 .blue {
-  padding: 10px;
+  padding: 60px;
   background-color: blue;
+  margin: auto;
 }
 
 .cyan {
-  padding: 10px;
+  padding: 60px;
   background-color: cyan;
 }
 
 .green {
-  padding: 10px;
+  padding: 60px;
   background-color: green;
 }
 
 .yellow {
-  padding: 10px;
+  padding: 60px;
   background-color: yellow;
 }
