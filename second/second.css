@@ -1,0 +1,39 @@
+body {
+  background-color: #eaeaea;
+}
+
+.container-fluid {
+  text-align: auto;
+}
+
+.left {
+  background-color: #6fa5fc;
+  float: left;
+  margin: auto;
+  width: 30%;
+  padding-bottom: 600px;
+}
+
+.center {
+  background-color: #6ffca2;
+  float: left;
+  margin: auto;
+  width: 30%;
+  padding-bottom: 600px;
+}
+
+.right {
+  background-color: #fcfa6f;
+  float: left;
+  margin: auto;
+  width: 30%;
+  padding-bottom: 600px;
+}
+
+img {
+  display: inline;
+  float: bottom;
+  height: 203px;
+  background-color: #fcfa6f;
+  padding-top: 397px;
+}
